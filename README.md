@@ -1,0 +1,1 @@
+# gas-new_reversi-collection
